@@ -1,0 +1,14 @@
+<input type="text" placeholder="Start date" ng-model="absenteeismCandidate.startDate"/>
+<input type="number" placeholder="Duration" ng-model="absenteeismCandidate.duration"/>
+<input type="text" placeholder="T, P or V" ng-model="absenteeismCandidate.value"/>
+<button ng-click="addTask()">Book absenteeism</button>
+<span style="color: red">{{clashWarning}}</span>
+<div>
+    <div style="float: left;clear: both;">
+        <div ng-repeat="name in chartData.removedNames" ng-click="restoreTask(name)">
+            <input type="button" value="{{name}}"/>
+        </div>
+    </div>
+    <div id="chart" style="width: 1000px;height: 700px;float: left;clear: both;"></div>
+</div>
+<!--<gantt></gantt>-->
