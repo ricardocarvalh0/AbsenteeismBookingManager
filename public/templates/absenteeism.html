@@ -2,6 +2,14 @@
 <input type="number" placeholder="Duration" ng-model="absenteeismCandidate.duration"/>
 <input type="text" placeholder="T, P or V" ng-model="absenteeismCandidate.value"/>
 <button ng-click="addTask()">Book absenteeism</button>
+<div>
+    <div>TEAMS:</div>
+    <div>
+        <div ng-repeat="teamName in chartData.teamNames">
+            <button ng-click="toggleTeam(teamName)">{{teamName}}</button>
+        </div>
+    </div>
+</div>
 <span style="color: red">{{clashWarning}}</span>
 <div>
     <div style="float: left;clear: both;">

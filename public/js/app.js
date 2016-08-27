@@ -60,7 +60,7 @@ app.factory('CsvService', function ($q) {
         nestListByName: function (list) {
             return d3.nest()
                 .key(function (d) {
-                    return d.name;
+                    return d.name + ' - ' + d.team;
                 }).sortKeys(d3.ascending)
                 .rollup(function (d) {
                     return d;
@@ -93,6 +93,7 @@ app.controller('AbsenteeismCtrl', function BaconCtrl($q, $scope, $state, CsvServ
     $scope.chartData = {
         tasks: [],
         taskNames: [],
+        teamNames: [],
         removedNames: [],
         removedTasks: {},
         dateFormat: '%d-%m-%Y',
@@ -113,6 +114,11 @@ app.controller('AbsenteeismCtrl', function BaconCtrl($q, $scope, $state, CsvServ
         console.log('nested_by_name', $scope.nested_by_name);
         console.log('nested_by_date', $scope.nested_by_date);
         $scope.chartData.taskNames = _.sortBy(_.keys($scope.nested_by_name));
+        $scope.chartData.teamNames = _.uniq(_.map(csvData, 'team'));
+        $scope.chartData.isTeamVisibleMap = {};
+        _.each($scope.chartData.teamNames, function (teamName) {
+            $scope.chartData.isTeamVisibleMap[teamName] = true;
+        });
         $scope.gantt = null;// = d3.gantt().selector('#chart').taskTypes($scope.chartData.taskNames).taskStatus($scope.chartData.taskStatus).tickFormat($scope.chartData.dateFormat);
 
         $scope.$watch('nested_by_name', function (newVal, oldVal) {
@@ -175,12 +181,8 @@ app.controller('AbsenteeismCtrl', function BaconCtrl($q, $scope, $state, CsvServ
 
             d3.select('.y.axis')
                 .selectAll('.tick.major')
-                .on('click', function (d) {
-                    $scope.chartData.removedTasks[d] = $scope.nested_by_name[d];
-                    delete $scope.nested_by_name[d];
-                    Array.prototype.push.apply($scope.chartData.removedNames, _.remove($scope.chartData.taskNames, function (record) {
-                        return record === d;
-                    }));
+                .on('click', function (memberName) {
+                    $scope.removeMember(memberName);
                     $scope.$digest();
                 });
 
@@ -205,6 +207,34 @@ app.controller('AbsenteeismCtrl', function BaconCtrl($q, $scope, $state, CsvServ
                 }
             });
             $scope.isLoading = false;
+        };
+
+        $scope.removeMember = function (member) {
+            $scope.chartData.removedTasks[member] = $scope.nested_by_name[member];
+            delete $scope.nested_by_name[member];
+            Array.prototype.push.apply($scope.chartData.removedNames, _.remove($scope.chartData.taskNames, function (record) {
+                return record === member;
+            }));
+        };
+
+        $scope.toggleTeam = function (team) {
+            if ($scope.chartData.isTeamVisibleMap[team]) {
+                var teamMembers = _.filter($scope.chartData.taskNames, function (name) {
+                    return name.indexOf(' - ' + team) !== -1;
+                });
+                _.each(teamMembers, function (member) {
+                    $scope.removeMember(member);
+                });
+            } else {
+                var removedTeamMembers = _.filter($scope.chartData.removedNames, function (name) {
+                    return name.indexOf(' - ' + team) !== -1;
+                });
+                console.log('removed team members', removedTeamMembers);
+                _.each(removedTeamMembers, function (member) {
+                    $scope.restoreTask(member);
+                });
+            }
+            $scope.chartData.isTeamVisibleMap[team] = !$scope.chartData.isTeamVisibleMap[team];
         };
 
         $scope.checkIfGenerateClash = function (date) {
@@ -266,8 +296,6 @@ app.controller('AbsenteeismCtrl', function BaconCtrl($q, $scope, $state, CsvServ
             if (!$scope.nested_by_name[name]) $scope.nested_by_name[name] = [];
             $scope.nested_by_name[name] = $scope.chartData.removedTasks[name];
         };
-
-
     });
 });
 

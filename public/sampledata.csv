@@ -1,284 +1,284 @@
-userid,name,date,unit,value
-1,Matthew Webb,06/10/2016,AM,V
-1,Matthew Webb,06/10/2016,PM,V
-1,Matthew Webb,07/10/2016,AM,V
-1,Matthew Webb,07/10/2016,PM,V
-1,Matthew Webb,08/10/2016,AM,V
-1,Matthew Webb,08/10/2016,PM,V
-1,Matthew Webb,09/10/2016,AM,V
-1,Matthew Webb,09/10/2016,PM,V
-1,Matthew Webb,10/10/2016,AM,V
-1,Matthew Webb,10/10/2016,PM,V
-1,Matthew Webb,20/10/2016,AM,T
-1,Matthew Webb,20/11/2016,AM,V
-1,Matthew Webb,20/11/2016,PM,V
-1,Matthew Webb,21/11/2016,AM,V
-1,Matthew Webb,21/11/2016,PM,V
-1,Matthew Webb,25/12/2016,AM,P
-1,Matthew Webb,25/12/2016,PM,P
-1,Matthew Webb,26/12/2016,AM,P
-1,Matthew Webb,26/12/2016,PM,P
-2,Thomas William Burgess,22/12/2016,AM,V
-2,Thomas William Burgess,22/12/2016,PM,V
-2,Thomas William Burgess,23/12/2016,AM,V
-2,Thomas William Burgess,23/12/2016,PM,V
-2,Thomas William Burgess,24/12/2016,AM,V
-2,Thomas William Burgess,24/12/2016,PM,V
-2,Thomas William Burgess,25/12/2016,AM,P
-2,Thomas William Burgess,25/12/2016,PM,P
-2,Thomas William Burgess,26/12/2016,AM,P
-2,Thomas William Burgess,26/12/2016,PM,P
-3,Henry Sullivan,22/12/2016,AM,V
-3,Henry Sullivan,22/12/2016,PM,V
-3,Henry Sullivan,23/12/2016,AM,V
-3,Henry Sullivan,23/12/2016,PM,V
-3,Henry Sullivan,24/12/2016,AM,V
-3,Henry Sullivan,24/12/2016,PM,V
-3,Henry Sullivan,25/12/2016,AM,P
-3,Henry Sullivan,25/12/2016,PM,P
-3,Henry Sullivan,26/12/2016,AM,P
-3,Henry Sullivan,26/12/2016,PM,P
-4,Enrique Tirabocchi,03/11/2016,AM,T
-4,Enrique Tirabocchi,03/11/2016,PM,T
-4,Enrique Tirabocchi,22/12/2016,AM,V
-4,Enrique Tirabocchi,22/12/2016,PM,V
-4,Enrique Tirabocchi,23/12/2016,AM,V
-4,Enrique Tirabocchi,23/12/2016,PM,V
-4,Enrique Tirabocchi,24/12/2016,AM,V
-4,Enrique Tirabocchi,24/12/2016,PM,V
-4,Enrique Tirabocchi,25/12/2016,AM,P
-4,Enrique Tirabocchi,25/12/2016,PM,P
-4,Enrique Tirabocchi,26/12/2016,AM,P
-4,Enrique Tirabocchi,26/12/2016,PM,P
-5,Charles Toth,23/12/2016,AM,V
-5,Charles Toth,23/12/2016,PM,V
-5,Charles Toth,24/12/2016,AM,V
-5,Charles Toth,24/12/2016,PM,V
-5,Charles Toth,25/12/2016,AM,P
-5,Charles Toth,25/12/2016,PM,P
-5,Charles Toth,26/12/2016,AM,P
-5,Charles Toth,26/12/2016,PM,P
-6,Gertrude Ederle,27/10/2016,AM,V
-6,Gertrude Ederle,27/10/2016,PM,V
-6,Gertrude Ederle,28/10/2016,AM,V
-6,Gertrude Ederle,28/10/2016,PM,V
-6,Gertrude Ederle,29/10/2016,AM,V
-6,Gertrude Ederle,29/10/2016,PM,V
-6,Gertrude Ederle,30/10/2016,AM,V
-6,Gertrude Ederle,30/10/2016,PM,V
-6,Gertrude Ederle,31/10/2016,AM,V
-6,Gertrude Ederle,31/10/2016,PM,V
-6,Gertrude Ederle,25/12/2016,AM,P
-6,Gertrude Ederle,25/12/2016,PM,P
-6,Gertrude Ederle,26/12/2016,AM,P
-6,Gertrude Ederle,26/12/2016,PM,P
-7,Amelia Gade Corson,25/12/2016,AM,P
-7,Amelia Gade Corson,25/12/2016,PM,P
-7,Amelia Gade Corson,26/12/2016,AM,P
-7,Amelia Gade Corson,26/12/2016,PM,P
-8,Edward H. Temme,25/12/2016,AM,P
-8,Edward H. Temme,25/12/2016,PM,P
-8,Edward H. Temme,26/12/2016,AM,P
-8,Edward H. Temme,26/12/2016,PM,P
-9,Florence Chadwick,25/12/2016,AM,P
-9,Florence Chadwick,25/12/2016,PM,P
-9,Florence Chadwick,26/12/2016,AM,P
-9,Florence Chadwick,26/12/2016,PM,P
-10,Damian Piz� Beltran,27/10/2016,AM,V
-10,Damian Piz� Beltran,27/10/2016,PM,V
-10,Damian Piz� Beltran,28/10/2016,AM,V
-10,Damian Piz� Beltran,28/10/2016,PM,V
-10,Damian Piz� Beltran,29/10/2016,AM,V
-10,Damian Piz� Beltran,29/10/2016,PM,V
-10,Damian Piz� Beltran,30/10/2016,AM,V
-10,Damian Piz� Beltran,30/10/2016,PM,V
-10,Damian Piz� Beltran,31/10/2016,AM,V
-10,Damian Piz� Beltran,31/10/2016,PM,V
-10,Damian Piz� Beltran,25/12/2016,AM,P
-10,Damian Piz� Beltran,25/12/2016,PM,P
-10,Damian Piz� Beltran,26/12/2016,AM,P
-10,Damian Piz� Beltran,26/12/2016,PM,P
-11,Marilyn Bell,27/10/2016,AM,T
-11,Marilyn Bell,27/10/2016,PM,T
-11,Marilyn Bell,28/10/2016,AM,T
-11,Marilyn Bell,28/10/2016,PM,T
-11,Marilyn Bell,29/10/2016,AM,T
-11,Marilyn Bell,29/10/2016,PM,T
-11,Marilyn Bell,30/10/2016,AM,T
-11,Marilyn Bell,30/10/2016,PM,T
-11,Marilyn Bell,31/10/2016,AM,T
-11,Marilyn Bell,31/10/2016,PM,T
-11,Marilyn Bell,03/11/2016,AM,T
-11,Marilyn Bell,03/11/2016,PM,T
-11,Marilyn Bell,04/11/2016,AM,T
-11,Marilyn Bell,04/11/2016,PM,T
-11,Marilyn Bell,05/11/2016,AM,T
-11,Marilyn Bell,05/11/2016,PM,T
-11,Marilyn Bell,06/11/2016,AM,T
-11,Marilyn Bell,06/11/2016,PM,T
-11,Marilyn Bell,07/11/2016,AM,T
-11,Marilyn Bell,07/11/2016,PM,T
-11,Marilyn Bell,10/11/2016,AM,T
-11,Marilyn Bell,10/11/2016,PM,T
-11,Marilyn Bell,11/11/2016,AM,T
-11,Marilyn Bell,11/11/2016,PM,T
-11,Marilyn Bell,12/11/2016,AM,T
-11,Marilyn Bell,12/11/2016,PM,T
-11,Marilyn Bell,13/11/2016,AM,T
-11,Marilyn Bell,13/11/2016,PM,T
-11,Marilyn Bell,14/11/2016,AM,T
-11,Marilyn Bell,14/11/2016,PM,T
-11,Marilyn Bell,17/11/2016,AM,T
-11,Marilyn Bell,17/11/2016,PM,T
-11,Marilyn Bell,18/11/2016,AM,T
-11,Marilyn Bell,18/11/2016,PM,T
-11,Marilyn Bell,19/11/2016,AM,T
-11,Marilyn Bell,19/11/2016,PM,T
-11,Marilyn Bell,20/11/2016,AM,T
-11,Marilyn Bell,20/11/2016,PM,T
-11,Marilyn Bell,21/11/2016,AM,T
-11,Marilyn Bell,21/11/2016,PM,T
-11,Marilyn Bell,24/11/2016,AM,T
-11,Marilyn Bell,24/11/2016,PM,T
-11,Marilyn Bell,25/11/2016,AM,T
-11,Marilyn Bell,25/11/2016,PM,T
-11,Marilyn Bell,26/11/2016,AM,T
-11,Marilyn Bell,26/11/2016,PM,T
-11,Marilyn Bell,27/11/2016,AM,T
-11,Marilyn Bell,27/11/2016,PM,T
-11,Marilyn Bell,28/11/2016,AM,T
-11,Marilyn Bell,28/11/2016,PM,T
-11,Marilyn Bell,25/12/2016,AM,P
-11,Marilyn Bell,25/12/2016,PM,P
-11,Marilyn Bell,26/12/2016,AM,P
-11,Marilyn Bell,26/12/2016,PM,P
-12,Brojen Das,23/12/2016,AM,V
-12,Brojen Das,23/12/2016,PM,V
-12,Brojen Das,24/12/2016,AM,V
-12,Brojen Das,24/12/2016,PM,V
-12,Brojen Das,25/12/2016,AM,P
-12,Brojen Das,25/12/2016,PM,P
-12,Brojen Das,26/12/2016,AM,P
-12,Brojen Das,26/12/2016,PM,P
-13,Arati Saha,22/12/2016,AM,V
-13,Arati Saha,22/12/2016,PM,V
-13,Arati Saha,23/12/2016,AM,V
-13,Arati Saha,23/12/2016,PM,V
-13,Arati Saha,24/12/2016,AM,V
-13,Arati Saha,24/12/2016,PM,V
-13,Arati Saha,25/12/2016,AM,P
-13,Arati Saha,25/12/2016,PM,P
-13,Arati Saha,26/12/2016,AM,P
-13,Arati Saha,26/12/2016,PM,P
-14,Mihir Sen,22/12/2016,AM,V
-14,Mihir Sen,22/12/2016,PM,V
-14,Mihir Sen,23/12/2016,AM,V
-14,Mihir Sen,23/12/2016,PM,V
-14,Mihir Sen,24/12/2016,AM,V
-14,Mihir Sen,24/12/2016,PM,V
-14,Mihir Sen,25/12/2016,AM,P
-14,Mihir Sen,25/12/2016,PM,P
-14,Mihir Sen,26/12/2016,AM,P
-14,Mihir Sen,26/12/2016,PM,P
-15,Antonio Abertondo,22/12/2016,AM,V
-15,Antonio Abertondo,22/12/2016,PM,V
-15,Antonio Abertondo,23/12/2016,AM,V
-15,Antonio Abertondo,23/12/2016,PM,V
-15,Antonio Abertondo,24/12/2016,AM,V
-15,Antonio Abertondo,24/12/2016,PM,V
-15,Antonio Abertondo,25/12/2016,AM,P
-15,Antonio Abertondo,25/12/2016,PM,P
-15,Antonio Abertondo,26/12/2016,AM,P
-15,Antonio Abertondo,26/12/2016,PM,P
-16,Jon Erikson,22/12/2016,AM,V
-16,Jon Erikson,22/12/2016,PM,V
-16,Jon Erikson,23/12/2016,AM,V
-16,Jon Erikson,23/12/2016,PM,V
-16,Jon Erikson,24/12/2016,AM,V
-16,Jon Erikson,24/12/2016,PM,V
-16,Jon Erikson,25/12/2016,AM,P
-16,Jon Erikson,25/12/2016,PM,P
-16,Jon Erikson,26/12/2016,AM,P
-16,Jon Erikson,26/12/2016,PM,P
-17,John Maclean,27/10/2016,AM,V
-17,John Maclean,27/10/2016,PM,V
-17,John Maclean,28/10/2016,AM,V
-17,John Maclean,28/10/2016,PM,V
-17,John Maclean,29/10/2016,AM,V
-17,John Maclean,29/10/2016,PM,V
-17,John Maclean,03/11/2016,AM,T
-17,John Maclean,03/11/2016,PM,T
-17,John Maclean,22/12/2016,AM,V
-17,John Maclean,22/12/2016,PM,V
-17,John Maclean,23/12/2016,AM,V
-17,John Maclean,23/12/2016,PM,V
-17,John Maclean,24/12/2016,AM,V
-17,John Maclean,24/12/2016,PM,V
-17,John Maclean,25/12/2016,AM,P
-17,John Maclean,25/12/2016,PM,P
-17,John Maclean,26/12/2016,AM,P
-17,John Maclean,26/12/2016,PM,P
-18,Philippe Croizon,27/10/2016,AM,V
-18,Philippe Croizon,27/10/2016,PM,V
-18,Philippe Croizon,28/10/2016,AM,V
-18,Philippe Croizon,28/10/2016,PM,V
-18,Philippe Croizon,29/10/2016,AM,V
-18,Philippe Croizon,29/10/2016,PM,V
-18,Philippe Croizon,30/10/2016,AM,V
-18,Philippe Croizon,30/10/2016,PM,V
-18,Philippe Croizon,31/10/2016,AM,V
-18,Philippe Croizon,31/10/2016,PM,V
-18,Philippe Croizon,25/12/2016,AM,P
-18,Philippe Croizon,25/12/2016,PM,P
-18,Philippe Croizon,26/12/2016,AM,P
-18,Philippe Croizon,26/12/2016,PM,P
-19,Trent Grimsey,25/12/2016,AM,P
-19,Trent Grimsey,25/12/2016,PM,P
-19,Trent Grimsey,26/12/2016,AM,P
-19,Trent Grimsey,26/12/2016,PM,P
-20,Philip Rush,27/10/2016,AM,V
-20,Philip Rush,27/10/2016,PM,V
-20,Philip Rush,28/10/2016,AM,V
-20,Philip Rush,28/10/2016,PM,V
-20,Philip Rush,29/10/2016,AM,V
-20,Philip Rush,29/10/2016,PM,V
-20,Philip Rush,30/10/2016,AM,V
-20,Philip Rush,30/10/2016,PM,V
-20,Philip Rush,31/10/2016,AM,V
-20,Philip Rush,31/10/2016,PM,V
-20,Philip Rush,25/12/2016,AM,P
-20,Philip Rush,25/12/2016,PM,P
-20,Philip Rush,26/12/2016,AM,P
-20,Philip Rush,26/12/2016,PM,P
-21,Kevin Murphy,03/11/2016,AM,T
-21,Kevin Murphy,03/11/2016,PM,T
-21,Kevin Murphy,25/12/2016,AM,P
-21,Kevin Murphy,25/12/2016,PM,P
-21,Kevin Murphy,26/12/2016,AM,P
-21,Kevin Murphy,26/12/2016,PM,P
-22,Alison Streeter,03/11/2016,AM,T
-22,Alison Streeter,03/11/2016,PM,T
-22,Alison Streeter,25/12/2016,AM,P
-22,Alison Streeter,25/12/2016,PM,P
-22,Alison Streeter,26/12/2016,AM,P
-22,Alison Streeter,26/12/2016,PM,P
-23,Cynthia Nicholas,27/10/2016,AM,V
-23,Cynthia Nicholas,27/10/2016,PM,V
-23,Cynthia Nicholas,28/10/2016,AM,V
-23,Cynthia Nicholas,28/10/2016,PM,V
-23,Cynthia Nicholas,29/10/2016,AM,V
-23,Cynthia Nicholas,29/10/2016,PM,V
-23,Cynthia Nicholas,30/10/2016,AM,V
-23,Cynthia Nicholas,30/10/2016,PM,V
-23,Cynthia Nicholas,25/12/2016,AM,P
-23,Cynthia Nicholas,25/12/2016,PM,P
-23,Cynthia Nicholas,26/12/2016,AM,P
-23,Cynthia Nicholas,26/12/2016,PM,P
-24,Ricardo Alves,13/10/2016,AM,V
-24,Ricardo Alves,13/10/2016,PM,V
-24,Ricardo Alves,14/10/2016,AM,V
-24,Ricardo Alves,14/10/2016,PM,V
-24,Ricardo Alves,25/12/2016,AM,P
-24,Ricardo Alves,25/12/2016,PM,P
-24,Ricardo Alves,26/12/2016,AM,P
-24,Ricardo Alves,26/12/2016,PM,P
+userid,name,team,date,unit,value
+1,Matthew Webb,JU,06/10/2016,AM,V
+1,Matthew Webb,JU,06/10/2016,PM,V
+1,Matthew Webb,JU,07/10/2016,AM,V
+1,Matthew Webb,JU,07/10/2016,PM,V
+1,Matthew Webb,JU,08/10/2016,AM,V
+1,Matthew Webb,JU,08/10/2016,PM,V
+1,Matthew Webb,JU,09/10/2016,AM,V
+1,Matthew Webb,JU,09/10/2016,PM,V
+1,Matthew Webb,JU,10/10/2016,AM,V
+1,Matthew Webb,JU,10/10/2016,PM,V
+1,Matthew Webb,JU,20/10/2016,AM,T
+1,Matthew Webb,JU,20/11/2016,AM,V
+1,Matthew Webb,JU,20/11/2016,PM,V
+1,Matthew Webb,JU,21/11/2016,AM,V
+1,Matthew Webb,JU,21/11/2016,PM,V
+1,Matthew Webb,JU,25/12/2016,AM,P
+1,Matthew Webb,JU,25/12/2016,PM,P
+1,Matthew Webb,JU,26/12/2016,AM,P
+1,Matthew Webb,JU,26/12/2016,PM,P
+2,Thomas William Burgess,JU,22/12/2016,AM,V
+2,Thomas William Burgess,JU,22/12/2016,PM,V
+2,Thomas William Burgess,JU,23/12/2016,AM,V
+2,Thomas William Burgess,JU,23/12/2016,PM,V
+2,Thomas William Burgess,JU,24/12/2016,AM,V
+2,Thomas William Burgess,JU,24/12/2016,PM,V
+2,Thomas William Burgess,JU,25/12/2016,AM,P
+2,Thomas William Burgess,JU,25/12/2016,PM,P
+2,Thomas William Burgess,JU,26/12/2016,AM,P
+2,Thomas William Burgess,JU,26/12/2016,PM,P
+3,Henry Sullivan,JU,22/12/2016,AM,V
+3,Henry Sullivan,JU,22/12/2016,PM,V
+3,Henry Sullivan,JU,23/12/2016,AM,V
+3,Henry Sullivan,JU,23/12/2016,PM,V
+3,Henry Sullivan,JU,24/12/2016,AM,V
+3,Henry Sullivan,JU,24/12/2016,PM,V
+3,Henry Sullivan,JU,25/12/2016,AM,P
+3,Henry Sullivan,JU,25/12/2016,PM,P
+3,Henry Sullivan,JU,26/12/2016,AM,P
+3,Henry Sullivan,JU,26/12/2016,PM,P
+4,Enrique Tirabocchi,JU,03/11/2016,AM,T
+4,Enrique Tirabocchi,JU,03/11/2016,PM,T
+4,Enrique Tirabocchi,JU,22/12/2016,AM,V
+4,Enrique Tirabocchi,JU,22/12/2016,PM,V
+4,Enrique Tirabocchi,JU,23/12/2016,AM,V
+4,Enrique Tirabocchi,JU,23/12/2016,PM,V
+4,Enrique Tirabocchi,JU,24/12/2016,AM,V
+4,Enrique Tirabocchi,JU,24/12/2016,PM,V
+4,Enrique Tirabocchi,JU,25/12/2016,AM,P
+4,Enrique Tirabocchi,JU,25/12/2016,PM,P
+4,Enrique Tirabocchi,JU,26/12/2016,AM,P
+4,Enrique Tirabocchi,JU,26/12/2016,PM,P
+5,Charles Toth,JU,23/12/2016,AM,V
+5,Charles Toth,JU,23/12/2016,PM,V
+5,Charles Toth,JU,24/12/2016,AM,V
+5,Charles Toth,JU,24/12/2016,PM,V
+5,Charles Toth,JU,25/12/2016,AM,P
+5,Charles Toth,JU,25/12/2016,PM,P
+5,Charles Toth,JU,26/12/2016,AM,P
+5,Charles Toth,JU,26/12/2016,PM,P
+6,Gertrude Ederle,JU,27/10/2016,AM,V
+6,Gertrude Ederle,JU,27/10/2016,PM,V
+6,Gertrude Ederle,JU,28/10/2016,AM,V
+6,Gertrude Ederle,JU,28/10/2016,PM,V
+6,Gertrude Ederle,JU,29/10/2016,AM,V
+6,Gertrude Ederle,JU,29/10/2016,PM,V
+6,Gertrude Ederle,JU,30/10/2016,AM,V
+6,Gertrude Ederle,JU,30/10/2016,PM,V
+6,Gertrude Ederle,JU,31/10/2016,AM,V
+6,Gertrude Ederle,JU,31/10/2016,PM,V
+6,Gertrude Ederle,JU,25/12/2016,AM,P
+6,Gertrude Ederle,JU,25/12/2016,PM,P
+6,Gertrude Ederle,JU,26/12/2016,AM,P
+6,Gertrude Ederle,JU,26/12/2016,PM,P
+7,Amelia Gade Corson,JU,25/12/2016,AM,P
+7,Amelia Gade Corson,JU,25/12/2016,PM,P
+7,Amelia Gade Corson,JU,26/12/2016,AM,P
+7,Amelia Gade Corson,JU,26/12/2016,PM,P
+8,Edward H. Temme,JU,25/12/2016,AM,P
+8,Edward H. Temme,JU,25/12/2016,PM,P
+8,Edward H. Temme,JU,26/12/2016,AM,P
+8,Edward H. Temme,JU,26/12/2016,PM,P
+9,Florence Chadwick,JU,25/12/2016,AM,P
+9,Florence Chadwick,JU,25/12/2016,PM,P
+9,Florence Chadwick,JU,26/12/2016,AM,P
+9,Florence Chadwick,JU,26/12/2016,PM,P
+10,Damian Piza Beltran,JU,27/10/2016,AM,V
+10,Damian Piza Beltran,JU,27/10/2016,PM,V
+10,Damian Piza Beltran,JU,28/10/2016,AM,V
+10,Damian Piza Beltran,JU,28/10/2016,PM,V
+10,Damian Piza Beltran,JU,29/10/2016,AM,V
+10,Damian Piza Beltran,JU,29/10/2016,PM,V
+10,Damian Piza Beltran,JU,30/10/2016,AM,V
+10,Damian Piza Beltran,JU,30/10/2016,PM,V
+10,Damian Piza Beltran,JU,31/10/2016,AM,V
+10,Damian Piza Beltran,JU,31/10/2016,PM,V
+10,Damian Piza Beltran,JU,25/12/2016,AM,P
+10,Damian Piza Beltran,JU,25/12/2016,PM,P
+10,Damian Piza Beltran,JU,26/12/2016,AM,P
+10,Damian Piza Beltran,JU,26/12/2016,PM,P
+11,Marilyn Bell,JU,27/10/2016,AM,T
+11,Marilyn Bell,JU,27/10/2016,PM,T
+11,Marilyn Bell,JU,28/10/2016,AM,T
+11,Marilyn Bell,JU,28/10/2016,PM,T
+11,Marilyn Bell,JU,29/10/2016,AM,T
+11,Marilyn Bell,JU,29/10/2016,PM,T
+11,Marilyn Bell,JU,30/10/2016,AM,T
+11,Marilyn Bell,JU,30/10/2016,PM,T
+11,Marilyn Bell,JU,31/10/2016,AM,T
+11,Marilyn Bell,JU,31/10/2016,PM,T
+11,Marilyn Bell,JU,03/11/2016,AM,T
+11,Marilyn Bell,JU,03/11/2016,PM,T
+11,Marilyn Bell,JU,04/11/2016,AM,T
+11,Marilyn Bell,JU,04/11/2016,PM,T
+11,Marilyn Bell,JU,05/11/2016,AM,T
+11,Marilyn Bell,JU,05/11/2016,PM,T
+11,Marilyn Bell,JU,06/11/2016,AM,T
+11,Marilyn Bell,JU,06/11/2016,PM,T
+11,Marilyn Bell,JU,07/11/2016,AM,T
+11,Marilyn Bell,JU,07/11/2016,PM,T
+11,Marilyn Bell,JU,10/11/2016,AM,T
+11,Marilyn Bell,JU,10/11/2016,PM,T
+11,Marilyn Bell,JU,11/11/2016,AM,T
+11,Marilyn Bell,JU,11/11/2016,PM,T
+11,Marilyn Bell,JU,12/11/2016,AM,T
+11,Marilyn Bell,JU,12/11/2016,PM,T
+11,Marilyn Bell,JU,13/11/2016,AM,T
+11,Marilyn Bell,JU,13/11/2016,PM,T
+11,Marilyn Bell,JU,14/11/2016,AM,T
+11,Marilyn Bell,JU,14/11/2016,PM,T
+11,Marilyn Bell,JU,17/11/2016,AM,T
+11,Marilyn Bell,JU,17/11/2016,PM,T
+11,Marilyn Bell,JU,18/11/2016,AM,T
+11,Marilyn Bell,JU,18/11/2016,PM,T
+11,Marilyn Bell,JU,19/11/2016,AM,T
+11,Marilyn Bell,JU,19/11/2016,PM,T
+11,Marilyn Bell,JU,20/11/2016,AM,T
+11,Marilyn Bell,JU,20/11/2016,PM,T
+11,Marilyn Bell,JU,21/11/2016,AM,T
+11,Marilyn Bell,JU,21/11/2016,PM,T
+11,Marilyn Bell,JU,24/11/2016,AM,T
+11,Marilyn Bell,JU,24/11/2016,PM,T
+11,Marilyn Bell,JU,25/11/2016,AM,T
+11,Marilyn Bell,JU,25/11/2016,PM,T
+11,Marilyn Bell,JU,26/11/2016,AM,T
+11,Marilyn Bell,JU,26/11/2016,PM,T
+11,Marilyn Bell,JU,27/11/2016,AM,T
+11,Marilyn Bell,JU,27/11/2016,PM,T
+11,Marilyn Bell,JU,28/11/2016,AM,T
+11,Marilyn Bell,JU,28/11/2016,PM,T
+11,Marilyn Bell,JU,25/12/2016,AM,P
+11,Marilyn Bell,JU,25/12/2016,PM,P
+11,Marilyn Bell,JU,26/12/2016,AM,P
+11,Marilyn Bell,JU,26/12/2016,PM,P
+12,Brojen Das,IT,23/12/2016,AM,V
+12,Brojen Das,IT,23/12/2016,PM,V
+12,Brojen Das,IT,24/12/2016,AM,V
+12,Brojen Das,IT,24/12/2016,PM,V
+12,Brojen Das,IT,25/12/2016,AM,P
+12,Brojen Das,IT,25/12/2016,PM,P
+12,Brojen Das,IT,26/12/2016,AM,P
+12,Brojen Das,IT,26/12/2016,PM,P
+13,Arati Saha,IT,22/12/2016,AM,V
+13,Arati Saha,IT,22/12/2016,PM,V
+13,Arati Saha,IT,23/12/2016,AM,V
+13,Arati Saha,IT,23/12/2016,PM,V
+13,Arati Saha,IT,24/12/2016,AM,V
+13,Arati Saha,IT,24/12/2016,PM,V
+13,Arati Saha,IT,25/12/2016,AM,P
+13,Arati Saha,IT,25/12/2016,PM,P
+13,Arati Saha,IT,26/12/2016,AM,P
+13,Arati Saha,IT,26/12/2016,PM,P
+14,Mihir Sen,IT,22/12/2016,AM,V
+14,Mihir Sen,IT,22/12/2016,PM,V
+14,Mihir Sen,IT,23/12/2016,AM,V
+14,Mihir Sen,IT,23/12/2016,PM,V
+14,Mihir Sen,IT,24/12/2016,AM,V
+14,Mihir Sen,IT,24/12/2016,PM,V
+14,Mihir Sen,IT,25/12/2016,AM,P
+14,Mihir Sen,IT,25/12/2016,PM,P
+14,Mihir Sen,IT,26/12/2016,AM,P
+14,Mihir Sen,IT,26/12/2016,PM,P
+15,Antonio Abertondo,IT,22/12/2016,AM,V
+15,Antonio Abertondo,IT,22/12/2016,PM,V
+15,Antonio Abertondo,IT,23/12/2016,AM,V
+15,Antonio Abertondo,IT,23/12/2016,PM,V
+15,Antonio Abertondo,IT,24/12/2016,AM,V
+15,Antonio Abertondo,IT,24/12/2016,PM,V
+15,Antonio Abertondo,IT,25/12/2016,AM,P
+15,Antonio Abertondo,IT,25/12/2016,PM,P
+15,Antonio Abertondo,IT,26/12/2016,AM,P
+15,Antonio Abertondo,IT,26/12/2016,PM,P
+16,Jon Erikson,IT,22/12/2016,AM,V
+16,Jon Erikson,IT,22/12/2016,PM,V
+16,Jon Erikson,IT,23/12/2016,AM,V
+16,Jon Erikson,IT,23/12/2016,PM,V
+16,Jon Erikson,IT,24/12/2016,AM,V
+16,Jon Erikson,IT,24/12/2016,PM,V
+16,Jon Erikson,IT,25/12/2016,AM,P
+16,Jon Erikson,IT,25/12/2016,PM,P
+16,Jon Erikson,IT,26/12/2016,AM,P
+16,Jon Erikson,IT,26/12/2016,PM,P
+17,John Maclean,IT,27/10/2016,AM,V
+17,John Maclean,IT,27/10/2016,PM,V
+17,John Maclean,IT,28/10/2016,AM,V
+17,John Maclean,IT,28/10/2016,PM,V
+17,John Maclean,IT,29/10/2016,AM,V
+17,John Maclean,IT,29/10/2016,PM,V
+17,John Maclean,IT,03/11/2016,AM,T
+17,John Maclean,IT,03/11/2016,PM,T
+17,John Maclean,IT,22/12/2016,AM,V
+17,John Maclean,IT,22/12/2016,PM,V
+17,John Maclean,IT,23/12/2016,AM,V
+17,John Maclean,IT,23/12/2016,PM,V
+17,John Maclean,IT,24/12/2016,AM,V
+17,John Maclean,IT,24/12/2016,PM,V
+17,John Maclean,IT,25/12/2016,AM,P
+17,John Maclean,IT,25/12/2016,PM,P
+17,John Maclean,IT,26/12/2016,AM,P
+17,John Maclean,IT,26/12/2016,PM,P
+18,Philippe Croizon,IT,27/10/2016,AM,V
+18,Philippe Croizon,IT,27/10/2016,PM,V
+18,Philippe Croizon,IT,28/10/2016,AM,V
+18,Philippe Croizon,IT,28/10/2016,PM,V
+18,Philippe Croizon,IT,29/10/2016,AM,V
+18,Philippe Croizon,IT,29/10/2016,PM,V
+18,Philippe Croizon,IT,30/10/2016,AM,V
+18,Philippe Croizon,IT,30/10/2016,PM,V
+18,Philippe Croizon,IT,31/10/2016,AM,V
+18,Philippe Croizon,IT,31/10/2016,PM,V
+18,Philippe Croizon,IT,25/12/2016,AM,P
+18,Philippe Croizon,IT,25/12/2016,PM,P
+18,Philippe Croizon,IT,26/12/2016,AM,P
+18,Philippe Croizon,IT,26/12/2016,PM,P
+19,Trent Grimsey,IT,25/12/2016,AM,P
+19,Trent Grimsey,IT,25/12/2016,PM,P
+19,Trent Grimsey,IT,26/12/2016,AM,P
+19,Trent Grimsey,IT,26/12/2016,PM,P
+20,Philip Rush,IT,27/10/2016,AM,V
+20,Philip Rush,IT,27/10/2016,PM,V
+20,Philip Rush,IT,28/10/2016,AM,V
+20,Philip Rush,IT,28/10/2016,PM,V
+20,Philip Rush,IT,29/10/2016,AM,V
+20,Philip Rush,IT,29/10/2016,PM,V
+20,Philip Rush,IT,30/10/2016,AM,V
+20,Philip Rush,IT,30/10/2016,PM,V
+20,Philip Rush,IT,31/10/2016,AM,V
+20,Philip Rush,IT,31/10/2016,PM,V
+20,Philip Rush,IT,25/12/2016,AM,P
+20,Philip Rush,IT,25/12/2016,PM,P
+20,Philip Rush,IT,26/12/2016,AM,P
+20,Philip Rush,IT,26/12/2016,PM,P
+21,Kevin Murphy,IT,03/11/2016,AM,T
+21,Kevin Murphy,IT,03/11/2016,PM,T
+21,Kevin Murphy,IT,25/12/2016,AM,P
+21,Kevin Murphy,IT,25/12/2016,PM,P
+21,Kevin Murphy,IT,26/12/2016,AM,P
+21,Kevin Murphy,IT,26/12/2016,PM,P
+22,Alison Streeter,IT,03/11/2016,AM,T
+22,Alison Streeter,IT,03/11/2016,PM,T
+22,Alison Streeter,IT,25/12/2016,AM,P
+22,Alison Streeter,IT,25/12/2016,PM,P
+22,Alison Streeter,IT,26/12/2016,AM,P
+22,Alison Streeter,IT,26/12/2016,PM,P
+23,Cynthia Nicholas,IT,27/10/2016,AM,V
+23,Cynthia Nicholas,IT,27/10/2016,PM,V
+23,Cynthia Nicholas,IT,28/10/2016,AM,V
+23,Cynthia Nicholas,IT,28/10/2016,PM,V
+23,Cynthia Nicholas,IT,29/10/2016,AM,V
+23,Cynthia Nicholas,IT,29/10/2016,PM,V
+23,Cynthia Nicholas,IT,30/10/2016,AM,V
+23,Cynthia Nicholas,IT,30/10/2016,PM,V
+23,Cynthia Nicholas,IT,25/12/2016,AM,P
+23,Cynthia Nicholas,IT,25/12/2016,PM,P
+23,Cynthia Nicholas,IT,26/12/2016,AM,P
+23,Cynthia Nicholas,IT,26/12/2016,PM,P
+24,Ricardo Alves,IT,13/10/2016,AM,V
+24,Ricardo Alves,IT,13/10/2016,PM,V
+24,Ricardo Alves,IT,14/10/2016,AM,V
+24,Ricardo Alves,IT,14/10/2016,PM,V
+24,Ricardo Alves,IT,25/12/2016,AM,P
+24,Ricardo Alves,IT,25/12/2016,PM,P
+24,Ricardo Alves,IT,26/12/2016,AM,P
+24,Ricardo Alves,IT,26/12/2016,PM,P
