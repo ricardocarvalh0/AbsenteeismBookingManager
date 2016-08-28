@@ -9,9 +9,9 @@ d3.gantt = function () {
 
     var margin = {
         top: 20,
-        right: 40,
+        right: 220,
         bottom: 20,
-        left: 150
+        left: 200
     };
     var selector = 'body';
     var timeDomainStart = d3.time.day.offset(new Date(), -3);
@@ -140,9 +140,9 @@ d3.gantt = function () {
                 }
                 return taskStatus[d.status];
             })
+            .attr("transform", rectTransform)
             .transition()
             .attr("y", 0)
-            .attr("transform", rectTransform)
             .attr("height", function (d) {
                 return y.rangeBand();
             })
@@ -150,8 +150,7 @@ d3.gantt = function () {
                 return Math.max(1, (x(d.endDate) - x(d.startDate)));
             });
 
-        rect.transition()
-            .attr("transform", rectTransform)
+        rect.attr("transform", rectTransform).transition()
             .attr("height", function (d) {
                 return y.rangeBand();
             })

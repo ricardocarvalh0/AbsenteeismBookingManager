@@ -6,7 +6,7 @@ html, body, #wrapper {
 
 .chart {
     font-family: Arial, sans-serif;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .axis path, .axis line {
@@ -30,4 +30,11 @@ html, body, #wrapper {
 .clash {
     stroke: red;
     stroke-width: 3;
+}
+
+.legend {
+    padding: 5px;
+    font: 10px sans-serif;
+    background: yellow;
+    box-shadow: 2px 2px 1px #888;
 }
