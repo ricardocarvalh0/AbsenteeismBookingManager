@@ -202,6 +202,8 @@ app.controller('AbsenteeismCtrl', function BaconCtrl($scope, CsvService) {
                         return record.date === $scope.dateFormatter(day);
                     });
 
+                    delete $scope.nested_by_date[$scope.dateFormatter(day)];
+
                     //Restore the color names of xAxis ff a clash is removed
                     if (_.find(removedRecords, function (removedRecord) {
                             return removedRecord.value.indexOf('C') !== -1;
