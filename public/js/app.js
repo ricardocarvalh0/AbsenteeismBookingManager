@@ -84,7 +84,7 @@ app.factory('CsvService', function ($q) {
 
 app.controller('AbsenteeismCtrl', function BaconCtrl($scope, CsvService) {
 
-    $scope.user = {id: 77, name: 'Ricardo Alves', team: 'RH'};
+    $scope.user = {id: 77, name: 'Mark Hamset', team: 'RH'};
     $scope.isFirstTimeLoading = true;
     $scope.dateFormatter = d3.time.format('%d/%m/%Y');
     $scope.xtasks = [];

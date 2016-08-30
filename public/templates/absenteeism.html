@@ -1,3 +1,6 @@
+<div style="margin: 15px;">
+    <h3>Logged in as: Mark Hamset</h3>
+</div>
 <div style="display: flex;margin: 15px;">
     <div style="width: 700px">
         <input type="text" placeholder="Start date" ng-model="absenteeismCandidate.startDate"/>
@@ -6,21 +9,21 @@
         <button ng-click="addTask()">Book absenteeism</button>
     </div>
     <div style="flex-grow: 1">
-        <span style="color: red;font-size: 16px">{{clashWarning}}</span>
+        <span class="clash-warning">{{clashWarning}}</span>
     </div>
 </div>
-<div style="display: flex">
+<div style="display: flex;margin-top: 15px;">
     <div style="width: 80px;">
-        <div style="text-align: center">TEAMS</div>
-        <ul style="list-style-type: none">
+        <div class="center">TEAMS</div>
+        <ul class="center abs-list">
             <li ng-repeat="teamName in chartData.teamNames">
                 <button style="width: 50px" ng-click="toggleTeam(teamName)">{{teamName}}</button>
             </li>
         </ul>
     </div>
     <div style="flex-grow: 1;">
-        <div style="text-align: center">MEMBERS</div>
-        <ul style="list-style-type: none;text-align: center">
+        <div class="center">MEMBERS</div>
+        <ul class="center abs-list">
             <li ng-repeat="name in chartData.removedNames" ng-click="restoreTask(name)">
                 <input style="width: 180px" type="button" value="{{name}}"/>
             </li>

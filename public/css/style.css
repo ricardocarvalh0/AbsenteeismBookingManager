@@ -32,9 +32,22 @@ html, body, #wrapper {
     stroke-width: 3;
 }
 
+.clash-warning {
+    color: red;
+    font-size: 16px
+}
+
 .legend {
     padding: 5px;
     font: 10px sans-serif;
     background: yellow;
     box-shadow: 2px 2px 1px #888;
+}
+
+.center {
+    text-align: center;
+}
+
+.abs-list {
+    list-style-type: none;
 }
